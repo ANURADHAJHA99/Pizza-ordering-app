@@ -37,6 +37,7 @@ The assignment had to be completed with meeting following requirements:
 
 ## Tech Stack
 
+
 - **Django**  Django is a Python-based free and open-source web framework,
  which follows the model-view-template architectural pattern. It is maintained by the Django Software
  Foundation, an independent organization established as a 501 non-profit. 
